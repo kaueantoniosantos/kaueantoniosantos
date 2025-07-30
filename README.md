@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvGCUeB4lB0yI/giphy.gif" width="100px" alt="Olá" />
+  <img src="https://media.tenor.com/NBx2d6o6FlEAAAAm/superman-logo-superman.webp" width="100px" alt="Olá" />
 </div>
 
 <h1 align="center">Olá, eu sou o Kauê! 👋</h1>
