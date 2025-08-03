@@ -32,7 +32,7 @@ Fora do mundo da programação, sou um entusiasta de **esportes**! Estar em movi
 
 Ficarei feliz em conectar e trocar ideias!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauê-antonio-santos-25806a372/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaueantoniosantos/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaueantoniofranciscosantos@gmail.com)
 
 ---
