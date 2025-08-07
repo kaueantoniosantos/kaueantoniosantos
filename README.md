@@ -5,7 +5,7 @@
 
 ---
 
-Desenvolvedor de Sistemas em formação no **SENAI**, com uma paixão crescente por transformar desafios complexos em soluções de software elegantes e eficientes. Estou construindo uma base sólida em **C#**, **JavaScript**, e tecnologias web, com um olhar focado em aprofundar meus conhecimentos e seguir carreira na área de **Sistemas de Informação**.
+Estudante de **Desenvolvimento de Sistemas no SENAI**, com uma paixão crescente por transformar desafios complexos em soluções de software elegantes e eficientes. Estou construindo uma base sólida em **C#**, **JavaScript** e tecnologias web, com o objetivo de me aprofundar na área de **Sistemas de Informação**. Busco uma oportunidade de estágio ou vaga júnior para aplicar meus conhecimentos em um ambiente profissional e contribuir para o desenvolvimento de soluções tecnológicas.
 
 ---
 
@@ -58,12 +58,10 @@ Minha meta é me especializar em **Sistemas de Informação (SI)**, buscando ir 
 
 ### Meus Projetos 🚧
 
-Mesmo em fase de construção, cada linha de código é um passo à frente. Em breve, esta seção será preenchida com projetos que demonstram minhas habilidades e minha evolução. Estou dedicado a criar e apresentar soluções práticas que validem meu aprendizado e meu potencial como desenvolvedor.
-
-* *Em breve: meus primeiros projetos públicos com foco em aplicações práticas!*
+Estou desenvolvendo um sistema de gerenciamento de estoque com uma **API RESTful em .NET** e front-end em **React**, aplicando os princípios de arquitetura de software que venho estudando. Em breve, o repositório estará disponível para visualização.
 
 ---
 
 <p align="center">
-  Construindo o futuro com código e paixão.
+  Construindo o futuro com código e paixão.
 </p>
