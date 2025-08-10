@@ -56,12 +56,6 @@ Minha meta é me especializar em **Sistemas de Informação (SI)**, buscando ir 
 
 ---
 
-### Meus Projetos 🚧
-
-Estou desenvolvendo um sistema de gerenciamento de estoque com uma **API RESTful em .NET** e front-end em **React**, aplicando os princípios de arquitetura de software que venho estudando. Em breve, o repositório estará disponível para visualização.
-
----
-
 <p align="center">
   Construindo o futuro com código e paixão.
 </p>
